@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-IMAGE=amazon/aws-ebs-csi-driver
-VERSION=0.1.0-alpha
+IMAGE=sreis/aws-ebs-csi-driver
+VERSION=canary
 
 .PHONY: aws-ebs-csi-driver
 aws-ebs-csi-driver:
